@@ -5,7 +5,7 @@
 
 ## 📖 Description du projet
 
-**Touchless** est un projet visant à offrir un contrôle gestuel sans contact des commandes générales d'un PC. 
+### Touchless est un projet visant à offrir un contrôle gestuel sans contact des commandes générales d'un PC. 
 
 L'idée répond à un problème du quotidien : vouloir interagir avec un écran (comme revenir en arrière sur une vidéo de recette) alors que l'on a les mains sales. Cette solution vise également le secteur B2B, par exemple pour des employés dans l'industrie qui utilisent des logiciels métiers où toucher un clavier est impossible.
 
